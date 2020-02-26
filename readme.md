@@ -1,2 +1,1 @@
-Junyeol Hwang
-20537504
+Junyeol Hwang 20537504
