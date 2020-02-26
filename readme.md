@@ -1,2 +1,2 @@
 Junyeol Hwang 20537504
-![Screenshot](C:\Eclipse\Lab1\Git History.png)
+![Screenshot](https://raw.githubusercontent.com/Junyeol1998/COMP3111-Lab1-2020s.Git History.png)
